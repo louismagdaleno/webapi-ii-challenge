@@ -64,6 +64,7 @@ Configure the API to handle to the following routes:
 | PUT    | /api/posts/:id | Updates the post with the specified `id` using data from the `request body`. Returns the modified document, **NOT the original**.                                           |
 
 #### Endpoint Specifications
+MVP Requirements
 
 When the client makes a `POST` request to `/api/posts`:
 
